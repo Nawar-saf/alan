@@ -1,0 +1,17 @@
+{
+  "name": "Alan Runner",
+  "short_name": "Alan",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#5bc0be",
+  "theme_color": "#5bc0be",
+  "icons": [
+    {
+      "src": "alan_baby_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
